@@ -12,4 +12,3 @@ youtube_search
 pytgcalls[pyrogram]
 youtube_search_python
 yt-dlp
-
