@@ -21,7 +21,7 @@ import time
 import ffmpeg
 import asyncio
 import requests
-import youtube_dl
+import yt_dlp
 from config import Config
 from utils import USERNAME, mp
 from pyrogram.types import Message
